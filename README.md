@@ -47,5 +47,5 @@
 ---
 
 ### 📬 Contacto
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com)
+- 💼 **LinkedIn:** www.linkedin.com/in/iver-pinaya-verduguez-a054a7449
 - 📧 **Email:** pinayaverduguezziverr@gmail.com
